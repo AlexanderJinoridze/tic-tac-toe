@@ -1,25 +1,7 @@
-# Tic Tac Toe game by React tutorial
+# Tic Tac Toe
 
-[Tutorial link](https://reactjs.org/tutorial/tutorial.html)
+![React JS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=black&style=for-the-badge)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge)
 
-Usage:
-
-`yarn`
-
-`npm start`
-
----
-
-Advanced features:
-
-* :white_check_mark: Done. Display the location for each move in the format (col, row) in the move history list.
-
-* :white_check_mark: Done. Bold the currently selected item in the move list.
-
-* :white_check_mark: Done. Rewrite Board to use two loops to make the squares instead of hardcoding them.
-
-* :white_check_mark: Done. Add a toggle button that lets you sort the moves in either ascending or descending order.
-
-* :white_check_mark: Done. When someone wins, highlight the three squares that caused the win.
-
-* :white_check_mark: Done. When no one wins, display a message about the result being a draw.
+<a href="http://tictactoe.infinityfreeapp.com/" target="_blank">http://tictactoe.infinityfreeapp.com/</a>
